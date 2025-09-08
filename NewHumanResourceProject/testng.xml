@@ -1,0 +1,16 @@
+
+<suite name="Cucumber Suite">
+
+   <classes>
+   
+		<class name = "com.runner.TestNGRunner"/>
+		
+	</classes>
+	
+  <test thread-count="5" name="Cucumber Test">
+  
+  </test> <!-- Cucumber Test -->
+  
+</suite> <!-- Cucumber Suite -->
+
+
